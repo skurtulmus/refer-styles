@@ -1,0 +1,13 @@
+\" --- REFER BLOCK FOR THE MLA CITATION STYLE ---
+
+.R1
+database /path/to/refer-bibliographic-database
+sort A+
+accumulate
+move-punctuation
+label "(@|Q) ' \*[ENDINFO]'"
+short-label "'\*[ENDINFO]'"
+bracket-label " (" ")" "; "
+join-authors " and " ", " " and "
+no-label-in-reference
+.R2
