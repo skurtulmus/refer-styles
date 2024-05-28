@@ -2,6 +2,8 @@
 
 _Collection of citation styles for academic writing in groff_
 
+See also: [refer-utils](https://github.com/skurtulmus/refer-utils)
+
 ---
 
 This repository contains custom citation styles for the `groff` document formatting system and the `refer` preprocessor.
