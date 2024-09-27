@@ -151,6 +151,11 @@ If you wish to completely disable in-text citations, you may put this line in yo
 
 You can then manually write the in-text citations, while still automatically generating the end references.
 
+## Utils (Extra Scripts for refer and groff)
+
++ `refer-db.vim`: Vim syntax highlighting for refer database files
++ `apadb.pl`: Regex for generating APA style database (abbreviated names)
+
 ---
 
 ### License
